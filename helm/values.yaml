@@ -29,7 +29,7 @@ dataScienceCluster:
     ray:
       managementState: Managed
     kueue:
-      managementState: Managed
+      managementState: Removed
     workbenches:
       managementState: Managed
       workbenchNamespace: rhods-notebooks
