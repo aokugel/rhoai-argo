@@ -16,8 +16,6 @@ spec:
           value: "fast-3.x"
         - name: dashboardConfig.disableModelCatalog
           value: "false"
-        - name: dashboardConfig.disableHardwareProfiles
-          value: "false"
   sources: []
   project: default
   syncPolicy:
